@@ -38,3 +38,23 @@ For PUT: The user can update the ID number.
 
 For Delete: The user can delete an entire participant. This will be super helpful if a participant decides they do not want their data to be included on the site. 
 
+See more with the [API.md](https://github.com/mayapruitt/A4_backendCRUD/blob/master/API.md)
+
+## Challenges
+
+Hit a few roadblocks at first learning how to have the index.js file use external json data in the project folder. 
+
+Error checking became pretty time consuming. Especially when using input text boxes. Users can input anything. Since this was all about making requests to get responses, I wanted to make sure that the website could recognize the wrong types of inputs and respond with feedback in these cases. 
+
+
+# Deploying to Glitch.com
+1. Make sure the git repo is public
+2. Make sure the git repo is up to date
+3. Copy the repo link
+4. Create a new project on glitch
+5. Open "Tools" --> "Git, Import, and Export"
+6. Click "Import from Github", pase the repo link
+7. Press "ok" and watch your code magically appear!
+
+# Author 
+Maya Pruitt
